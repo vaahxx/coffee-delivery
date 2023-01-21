@@ -1,8 +1,14 @@
 import styled from "styled-components";
 
-export const HomeContainer = styled.main`
+export const HomeContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+`;
+
+export const Main = styled.main`
   display: flex;
   margin-top: 5.875rem;
+  margin-bottom: 5.875rem;
 `;
 
 export const Title = styled.h1`
@@ -14,7 +20,7 @@ export const Title = styled.h1`
   line-height: 130%;
 `;
 
-export const Subtitle = styled.h2`
+export const Subtitle = styled.h3`
   margin-top: 1rem;
   font-family: "Roboto", sans-serif;
   font-style: normal;
