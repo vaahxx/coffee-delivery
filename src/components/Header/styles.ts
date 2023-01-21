@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.header`
+  margin-top: 2rem;
   height: 6.5rem;
   display: flex;
   justify-content: space-between;
