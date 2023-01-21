@@ -1,0 +1,100 @@
+[
+  {
+    "id": "expresso-traditional",
+    "name": "Traditional Expresso",
+    "category": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "expresso-americano",
+    "name": "Americano Expresso",
+    "category": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "expresso-creamy",
+    "name": "Creamy Expresso",
+    "category": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "expresso-cold",
+    "name": "Cold Expresso",
+    "category": ["traditional", "cold"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "coffee-with-milk",
+    "name": "Coffee with Milk",
+    "category": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "latte",
+    "name": "Latte",
+    "category": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "capuccino",
+    "name": "Capuccino",
+    "category": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "macchiato",
+    "name": "Macchiato",
+    "category": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "mocaccino",
+    "name": "Mocaccino",
+    "category": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "hot-chocolate",
+    "name": "Hot Chocolate",
+    "category": ["special", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "cubano",
+    "name": "Cubano",
+    "category": ["special", "cold", "alcoholic"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "hawaiian",
+    "name": "Hawaiian",
+    "category": ["special"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "arab",
+    "name": "Arab",
+    "category": ["special"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  },
+  {
+    "id": "irish",
+    "name": "Irish",
+    "category": ["special", "alcoholic"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed.",
+    "price": 4.99
+  }
+]
