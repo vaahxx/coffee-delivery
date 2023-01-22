@@ -1,5 +1,6 @@
 import { useTheme } from "styled-components";
 import { ShoppingCart, MapPin } from "phosphor-react";
+import { NavLink } from "react-router-dom";
 import { HeaderContainer, LocationButton, CartButton } from "./styles";
 import logo from "../../assets/logo.svg";
 
@@ -8,7 +9,9 @@ export function Header() {
 
   return (
     <HeaderContainer>
-      <img src={logo} alt='' />
+      <NavLink to='/'>
+        <img src={logo} alt='' />
+      </NavLink>
       <div>
         <LocationButton disabled>
           <MapPin size={22} color={theme["purple-dark"]} weight='fill' />
