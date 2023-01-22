@@ -1,0 +1,114 @@
+[
+  {
+    "id": "expresso-traditional",
+    "name": "Traditional Expresso",
+    "categories": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "expresso-traditional.png"
+  },
+  {
+    "id": "expresso-americano",
+    "name": "Americano Expresso",
+    "categories": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "expresso-americano.png"
+  },
+  {
+    "id": "expresso-creamy",
+    "name": "Creamy Expresso",
+    "categories": ["traditional"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "expresso-creamy.png"
+  },
+  {
+    "id": "expresso-cold",
+    "name": "Cold Expresso",
+    "categories": ["traditional", "cold"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "expresso-cold.png"
+  },
+  {
+    "id": "coffee-with-milk",
+    "name": "Coffee with Milk",
+    "categories": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "coffee-with-milk.png"
+  },
+  {
+    "id": "latte",
+    "name": "Latte",
+    "categories": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "latte.png"
+  },
+  {
+    "id": "capuccino",
+    "name": "Capuccino",
+    "categories": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "capuccino.png"
+  },
+  {
+    "id": "macchiato",
+    "name": "Macchiato",
+    "categories": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "macchiato.png"
+  },
+  {
+    "id": "mocaccino",
+    "name": "Mocaccino",
+    "categories": ["traditional", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "mocaccino.png"
+  },
+  {
+    "id": "hot-chocolate",
+    "name": "Hot Chocolate",
+    "categories": ["special", "with milk"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "hot-chocolate.png"
+  },
+  {
+    "id": "cuban",
+    "name": "Cuban",
+    "categories": ["special", "cold", "alcoholic"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "cuban.png"
+  },
+  {
+    "id": "hawaiian",
+    "name": "Hawaiian",
+    "categories": ["special"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "hawaiian.png"
+  },
+  {
+    "id": "arab",
+    "name": "Arab",
+    "categories": ["special"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "arab.png"
+  },
+  {
+    "id": "irish",
+    "name": "Irish",
+    "categories": ["special", "alcoholic"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 4.99,
+    "photo": "irish.png"
+  }
+]
