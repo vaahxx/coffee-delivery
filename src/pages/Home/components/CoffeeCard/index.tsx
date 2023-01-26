@@ -39,6 +39,7 @@ export function CoffeeCard({
   function handleDecrease() {
     setQuantity((state) => state - 1);
   }
+
   return (
     <Card>
       <img src={`/coffees/${photo}`} alt='' />
