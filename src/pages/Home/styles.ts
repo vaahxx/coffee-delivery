@@ -1,14 +1,20 @@
 import styled from "styled-components";
+import backgroundImage from "../../assets/background.png";
 
 export const HomeContainer = styled.div`
   display: flex;
   flex-direction: column;
 `;
 
+export const Background = styled.section`
+  background-image: url(${backgroundImage});
+  background-size: cover;
+  background-repeat: no-repeat;
+`;
+
 export const Main = styled.main`
   display: flex;
-  margin-top: 5.875rem;
-  margin-bottom: 5.875rem;
+  margin: 5.875rem 10rem;
 `;
 
 export const Title = styled.h1`

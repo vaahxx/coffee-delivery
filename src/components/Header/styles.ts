@@ -5,6 +5,7 @@ export const HeaderContainer = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0 10rem;
 
   img {
     width: 85px;

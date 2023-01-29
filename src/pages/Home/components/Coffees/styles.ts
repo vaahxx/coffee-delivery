@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const CoffeesContainer = styled.div`
   display: flex;
   flex-direction: column;
+  margin: 0 10rem;
 `;
 
 export const Title = styled.h1`
